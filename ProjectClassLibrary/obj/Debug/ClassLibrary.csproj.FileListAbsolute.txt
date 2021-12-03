@@ -1,0 +1,5 @@
+C:\Users\VanSkotch\Desktop\wplayer\ProjectClassLibrary\bin\Debug\ProjectClassLibrary.dll
+C:\Users\VanSkotch\Desktop\wplayer\ProjectClassLibrary\bin\Debug\ProjectClassLibrary.pdb
+C:\Users\VanSkotch\Desktop\wplayer\ProjectClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VanSkotch\Desktop\wplayer\ProjectClassLibrary\obj\Debug\ProjectClassLibrary.dll
+C:\Users\VanSkotch\Desktop\wplayer\ProjectClassLibrary\obj\Debug\ProjectClassLibrary.pdb
